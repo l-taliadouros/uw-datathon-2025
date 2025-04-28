@@ -4,6 +4,8 @@ Team name: Neurally Linked
 
 Team members: Sungmin Park, Eubene In, Leonidas Taliadouros
 
+Update: Our team has won the 1st place in the Machine Learning category
+
 Intro
 Modecraft (an anonymized real-world company) is an ecommerce store offering a wide range of household items such as mugs, cabinets, lanterns, etc. They have collected processed over 500,000  orders for a diverse global clientele as a business and have now hired you as a consultant to review their data and provide them with business recommendations.
 
